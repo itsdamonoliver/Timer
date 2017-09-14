@@ -1,0 +1,42 @@
+
+/* ======= ======= ======= general ======= ======= ======= */
+html, body {
+    height: 100%;
+}
+body {
+    font-family: "Ariel", sans-serif;
+}
+
+/* ======= ======= =======  sections  ======= ======= ======= */
+.section {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid purple;
+}
+
+/* ======= header ======= */
+#header {
+    background-color: #eee;
+}
+
+/* ======= container ======= */
+#container {
+    height: 500px;
+    background-color: lightblue;
+    border: 2px solid darkblue;
+}
+
+/* ======= footer ======= */
+#footer {
+    background-color: #eee;
+}
+
+
+
+
+
+
+
+/* ======= ======= ======= ARCHIVE ======= ======= ======= */
+/* ======= ======= ======= ARCHIVE ======= ======= ======= */
+/* ======= ======= ======= ARCHIVE ======= ======= ======= */
